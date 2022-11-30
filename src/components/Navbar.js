@@ -24,14 +24,7 @@ export default function Navbar() {
 
   return (
     <div className={classes.root}>
-      <AppBar position="static">
-        <Toolbar>
-          
-          <Typography variant="h6" className={classes.title}>
-            Forum
-          </Typography>
-        </Toolbar>
-      </AppBar>
+     
     </div>
   );
 }
